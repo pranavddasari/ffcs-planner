@@ -15793,7 +15793,13 @@
           "points": [
             "🔴 Blacklisted"
           ],
-          "explicitBlacklist": true
+          "explicitBlacklist": true,
+          "sourceNotes": [
+            {
+              "location": "Faculty!A42",
+              "text": "Note: Somasundaram S K appeared in both the earlier blacklist and average list; kept as Blacklisted per the original classification."
+            }
+          ]
         },
         {
           "sourceId": "pdf4",
