@@ -86,3 +86,12 @@ docker compose up -d --build
 ```
 
 Python is only needed to rebuild edited sources. Friends can run the committed `index.html` through Docker without Python.
+
+The qualitative review rules are preserved in `tools/apply_review_preferences.py`. If you edit review points or those rules, regenerate the fit labels and then rebuild the HTML:
+
+```sh
+python3 tools/apply_review_preferences.py
+python3 build.py
+```
+
+The rules use explicit remarks only: for example, “all lab assignments as tests” is not presented as proof of a test in every lab. Frequency stays unspecified unless a source states it.

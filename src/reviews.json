@@ -9564,8 +9564,8 @@
         ],
         "facts": [
           {
-            "kind": "lab_assessment_every",
-            "label": "Tests/assessments in every lab reported",
+            "kind": "lab_assessment_assignments-as-tests",
+            "label": "All lab assignments treated as tests; frequency unspecified",
             "reviewIndex": 1,
             "pointIndex": 1
           },
@@ -9579,8 +9579,8 @@
       },
       "priorityPoints": [
         {
-          "kind": "every",
-          "label": "Tests/assessments in every lab reported",
+          "kind": "assignments-as-tests",
+          "label": "All lab assignments treated as tests; frequency unspecified",
           "reviewIndex": 1,
           "pointIndex": 1
         }
