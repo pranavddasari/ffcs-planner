@@ -1,0 +1,2959 @@
+[
+  {
+    "id": "crypto-theory-lab",
+    "name": "Cryptography and Network Security",
+    "category": "DC",
+    "codes": [
+      "BCSE309L",
+      "BCSE309P"
+    ],
+    "sections": [
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT626",
+        "faculty": "BERLIN M A",
+        "type": "TH",
+        "id": "crypto-theory-lab-6"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT602A",
+        "faculty": "BHUVANESWARI M",
+        "type": "TH",
+        "id": "crypto-theory-lab-25"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT502",
+        "faculty": "DEEPIKAA S",
+        "type": "TH",
+        "id": "crypto-theory-lab-14"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT502",
+        "faculty": "DEEPIKAA S",
+        "type": "TH",
+        "id": "crypto-theory-lab-15"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT522",
+        "faculty": "JAYA SUBALAKSHMI R",
+        "type": "TH",
+        "id": "crypto-theory-lab-24"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT504",
+        "faculty": "JAYASHREE J",
+        "type": "TH",
+        "id": "crypto-theory-lab-9"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT504",
+        "faculty": "JAYASHREE J",
+        "type": "TH",
+        "id": "crypto-theory-lab-1"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT521",
+        "faculty": "JENICKA S",
+        "type": "TH",
+        "id": "crypto-theory-lab-22"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT521",
+        "faculty": "JENICKA S",
+        "type": "TH",
+        "id": "crypto-theory-lab-23"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT603",
+        "faculty": "KOVENDAN A.K.P",
+        "type": "TH",
+        "id": "crypto-theory-lab-4"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT604",
+        "faculty": "MADHU VISWANATHAM V",
+        "type": "TH",
+        "id": "crypto-theory-lab-19"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT422",
+        "faculty": "MOHANA SUNDARI L",
+        "type": "TH",
+        "id": "crypto-theory-lab-12"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT409",
+        "faculty": "MURUGAN K",
+        "type": "TH",
+        "id": "crypto-theory-lab-21"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT501",
+        "faculty": "NARESH K",
+        "type": "TH",
+        "id": "crypto-theory-lab-0"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT505",
+        "faculty": "NAVAMANI T M",
+        "type": "TH",
+        "id": "crypto-theory-lab-10"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT424",
+        "faculty": "RAMANI S",
+        "type": "TH",
+        "id": "crypto-theory-lab-16"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT513",
+        "faculty": "RUBY D",
+        "type": "TH",
+        "id": "crypto-theory-lab-11"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT513",
+        "faculty": "RUBY D",
+        "type": "TH",
+        "id": "crypto-theory-lab-18"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT627",
+        "faculty": "SARWESH P",
+        "type": "TH",
+        "id": "crypto-theory-lab-26"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT501",
+        "faculty": "SASIKALA.R",
+        "type": "TH",
+        "id": "crypto-theory-lab-17"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT508",
+        "faculty": "SELVI M",
+        "type": "TH",
+        "id": "crypto-theory-lab-20"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT602A",
+        "faculty": "SOMASUNDARAM S K",
+        "type": "TH",
+        "id": "crypto-theory-lab-8"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT422",
+        "faculty": "SRIHARI MANDAVA",
+        "type": "TH",
+        "id": "crypto-theory-lab-13"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT619",
+        "faculty": "SURESH A",
+        "type": "TH",
+        "id": "crypto-theory-lab-2"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT601",
+        "faculty": "THAMIZHARASAN S",
+        "type": "TH",
+        "id": "crypto-theory-lab-7"
+      },
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT503",
+        "faculty": "VIJAYASHREE J",
+        "type": "TH",
+        "id": "crypto-theory-lab-3"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT503",
+        "faculty": "VIJAYASHREE J",
+        "type": "TH",
+        "id": "crypto-theory-lab-5"
+      },
+      {
+        "slot": "L31+L32",
+        "venue": "SJT317",
+        "faculty": "BERLIN M A",
+        "type": "LO",
+        "id": "crypto-theory-lab-64"
+      },
+      {
+        "slot": "L51+L52",
+        "venue": "SJT317",
+        "faculty": "BHUVANESWARI M",
+        "type": "LO",
+        "id": "crypto-theory-lab-53"
+      },
+      {
+        "slot": "L23+L24",
+        "venue": "SJT318",
+        "faculty": "DEEPIKAA S",
+        "type": "LO",
+        "id": "crypto-theory-lab-34"
+      },
+      {
+        "slot": "L43+L44",
+        "venue": "SJT316",
+        "faculty": "DEEPIKAA S",
+        "type": "LO",
+        "id": "crypto-theory-lab-39"
+      },
+      {
+        "slot": "L9+L10",
+        "venue": "SJT416",
+        "faculty": "ILAYARAJA V",
+        "type": "LO",
+        "id": "crypto-theory-lab-46"
+      },
+      {
+        "slot": "L37+L38",
+        "venue": "SJT515",
+        "faculty": "ISLABUDEEN M",
+        "type": "LO",
+        "id": "crypto-theory-lab-44"
+      },
+      {
+        "slot": "L55+L56",
+        "venue": "SJT416",
+        "faculty": "JAYA SUBALAKSHMI R",
+        "type": "LO",
+        "id": "crypto-theory-lab-42"
+      },
+      {
+        "slot": "L57+L58",
+        "venue": "SJT416",
+        "faculty": "JAYASHREE J",
+        "type": "LO",
+        "id": "crypto-theory-lab-47"
+      },
+      {
+        "slot": "L13+L14",
+        "venue": "SJT419",
+        "faculty": "JENICKA S",
+        "type": "LO",
+        "id": "crypto-theory-lab-50"
+      },
+      {
+        "slot": "L49+L50",
+        "venue": "SJT419",
+        "faculty": "JENICKA S",
+        "type": "LO",
+        "id": "crypto-theory-lab-57"
+      },
+      {
+        "slot": "L13+L14",
+        "venue": "SJT317",
+        "faculty": "KOVENDAN A.K.P",
+        "type": "LO",
+        "id": "crypto-theory-lab-28"
+      },
+      {
+        "slot": "L41+L42",
+        "venue": "SJT317",
+        "faculty": "KOVENDAN A.K.P",
+        "type": "LO",
+        "id": "crypto-theory-lab-59"
+      },
+      {
+        "slot": "L29+L30",
+        "venue": "SJT318",
+        "faculty": "KRISHNAMOORTHY A",
+        "type": "LO",
+        "id": "crypto-theory-lab-33"
+      },
+      {
+        "slot": "L9+L10",
+        "venue": "SJT318",
+        "faculty": "MADHU VISWANATHAM V",
+        "type": "LO",
+        "id": "crypto-theory-lab-29"
+      },
+      {
+        "slot": "L7+L8",
+        "venue": "SJT318",
+        "faculty": "MARIAPPAN R",
+        "type": "LO",
+        "id": "crypto-theory-lab-32"
+      },
+      {
+        "slot": "L55+L56",
+        "venue": "SJT318",
+        "faculty": "MOHANA SUNDARI L",
+        "type": "LO",
+        "id": "crypto-theory-lab-65"
+      },
+      {
+        "slot": "L1+L2",
+        "venue": "SJT419",
+        "faculty": "MURUGAN K",
+        "type": "LO",
+        "id": "crypto-theory-lab-60"
+      },
+      {
+        "slot": "L41+L42",
+        "venue": "SJT419",
+        "faculty": "MURUGAN K",
+        "type": "LO",
+        "id": "crypto-theory-lab-61"
+      },
+      {
+        "slot": "L39+L40",
+        "venue": "SJT318",
+        "faculty": "NARESH K",
+        "type": "LO",
+        "id": "crypto-theory-lab-66"
+      },
+      {
+        "slot": "L49+L50",
+        "venue": "SJT318",
+        "faculty": "NITHYA N S",
+        "type": "LO",
+        "id": "crypto-theory-lab-36"
+      },
+      {
+        "slot": "L15+L16",
+        "venue": "SJT416",
+        "faculty": "RAMANI S",
+        "type": "LO",
+        "id": "crypto-theory-lab-41"
+      },
+      {
+        "slot": "L45+L46",
+        "venue": "SJT416",
+        "faculty": "RAMANI S",
+        "type": "LO",
+        "id": "crypto-theory-lab-31"
+      },
+      {
+        "slot": "L25+L26",
+        "venue": "SJT419",
+        "faculty": "RUBY D",
+        "type": "LO",
+        "id": "crypto-theory-lab-49"
+      },
+      {
+        "slot": "L31+L32",
+        "venue": "SJT419",
+        "faculty": "RUBY D",
+        "type": "LO",
+        "id": "crypto-theory-lab-56"
+      },
+      {
+        "slot": "L53+L54",
+        "venue": "SJT317",
+        "faculty": "S M FAROOQ",
+        "type": "LO",
+        "id": "crypto-theory-lab-62"
+      },
+      {
+        "slot": "L15+L16",
+        "venue": "SJT318",
+        "faculty": "SANTHI H",
+        "type": "LO",
+        "id": "crypto-theory-lab-67"
+      },
+      {
+        "slot": "L19+L20",
+        "venue": "SJT316",
+        "faculty": "SARWESH P",
+        "type": "LO",
+        "id": "crypto-theory-lab-40"
+      },
+      {
+        "slot": "L21+L22",
+        "venue": "SJT318",
+        "faculty": "SASIKALA.R",
+        "type": "LO",
+        "id": "crypto-theory-lab-35"
+      },
+      {
+        "slot": "L33+L34",
+        "venue": "SJT318",
+        "faculty": "SATISH C.J",
+        "type": "LO",
+        "id": "crypto-theory-lab-30"
+      },
+      {
+        "slot": "L27+L28",
+        "venue": "SJT318",
+        "faculty": "SELVI M",
+        "type": "LO",
+        "id": "crypto-theory-lab-48"
+      },
+      {
+        "slot": "L57+L58",
+        "venue": "SJT318",
+        "faculty": "SELVI M",
+        "type": "LO",
+        "id": "crypto-theory-lab-55"
+      },
+      {
+        "slot": "L27+L28",
+        "venue": "SJT318",
+        "faculty": "SELVIM",
+        "type": "LO",
+        "id": "crypto-theory-lab-54"
+      },
+      {
+        "slot": "L5+L6",
+        "venue": "SJT317",
+        "faculty": "SOMASUNDARAM S K",
+        "type": "LO",
+        "id": "crypto-theory-lab-52"
+      },
+      {
+        "slot": "L3+L4",
+        "venue": "SJT419",
+        "faculty": "SREETHAR S",
+        "type": "LO",
+        "id": "crypto-theory-lab-51"
+      },
+      {
+        "slot": "L47+L48",
+        "venue": "SJT419",
+        "faculty": "SREETHAR S",
+        "type": "LO",
+        "id": "crypto-theory-lab-58"
+      },
+      {
+        "slot": "L35+L36",
+        "venue": "SJT318",
+        "faculty": "SURESH A",
+        "type": "LO",
+        "id": "crypto-theory-lab-27"
+      },
+      {
+        "slot": "L29+L30",
+        "venue": "SJT316",
+        "faculty": "THAMIZHARASAN S",
+        "type": "LO",
+        "id": "crypto-theory-lab-38"
+      },
+      {
+        "slot": "L25+L26",
+        "venue": "SJT416",
+        "faculty": "THANGARAMYA K",
+        "type": "LO",
+        "id": "crypto-theory-lab-63"
+      },
+      {
+        "slot": "L47+L48",
+        "venue": "SJT316",
+        "faculty": "UMAMAHESWARI M",
+        "type": "LO",
+        "id": "crypto-theory-lab-37"
+      },
+      {
+        "slot": "L23+L24",
+        "venue": "SJT416",
+        "faculty": "VIJAYASHREE J",
+        "type": "LO",
+        "id": "crypto-theory-lab-43"
+      },
+      {
+        "slot": "L31+L32",
+        "venue": "SJT416",
+        "faculty": "VIJAYASHREE J",
+        "type": "LO",
+        "id": "crypto-theory-lab-45"
+      }
+    ],
+    "sources": [
+      "DC/Crypto Theory + Lab/Screenshot 2026-10-28 at 9.51.24\u202fPM.png",
+      "DC/Crypto Theory + Lab/Screenshot 2026-10-28 at 9.51.30\u202fPM.png",
+      "DC/Crypto Theory + Lab/Screenshot 2026-10-28 at 9.51.34\u202fPM.png",
+      "DC/Crypto Theory + Lab/Screenshot 2026-10-28 at 9.51.58\u202fPM.png",
+      "DC/Crypto Theory + Lab/Screenshot 2026-10-28 at 9.52.02\u202fPM.png",
+      "DC/Crypto Theory + Lab/Screenshot 2026-10-28 at 9.52.06\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "G2"
+    ],
+    "morningSlots": [
+      "G1"
+    ],
+    "overviewSlot": null,
+    "requiredSlot": "G2"
+  },
+  {
+    "id": "embedded-theory",
+    "name": "Embedded Systems",
+    "category": "DC",
+    "codes": [
+      "BCSE305L"
+    ],
+    "sections": [
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT424",
+        "faculty": "AJITHA D",
+        "type": "TH",
+        "id": "embedded-theory-5"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT423",
+        "faculty": "ANURADHA G",
+        "type": "TH",
+        "id": "embedded-theory-2"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT424",
+        "faculty": "ANUSHA N",
+        "type": "TH",
+        "id": "embedded-theory-3"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT505",
+        "faculty": "BALAJI N",
+        "type": "TH",
+        "id": "embedded-theory-9"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT505",
+        "faculty": "BALAJI N",
+        "type": "TH",
+        "id": "embedded-theory-11"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT602A",
+        "faculty": "BANUPRIYA R",
+        "type": "TH",
+        "id": "embedded-theory-26"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT602A",
+        "faculty": "BANUPRIYA R",
+        "type": "TH",
+        "id": "embedded-theory-27"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT521",
+        "faculty": "GAYATHRI S",
+        "type": "TH",
+        "id": "embedded-theory-20"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT521",
+        "faculty": "GAYATHRI S",
+        "type": "TH",
+        "id": "embedded-theory-16"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT617",
+        "faculty": "HELENSHARMILA A",
+        "type": "TH",
+        "id": "embedded-theory-36"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT617",
+        "faculty": "HELENSHARMILA A",
+        "type": "TH",
+        "id": "embedded-theory-37"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT601",
+        "faculty": "JIM SOLOMON RAJA D",
+        "type": "TH",
+        "id": "embedded-theory-34"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT601",
+        "faculty": "JIM SOLOMON RAJA D",
+        "type": "TH",
+        "id": "embedded-theory-42"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT602",
+        "faculty": "KALPANA V",
+        "type": "TH",
+        "id": "embedded-theory-40"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT502",
+        "faculty": "KOPPERUNDEVI N",
+        "type": "TH",
+        "id": "embedded-theory-7"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT502",
+        "faculty": "KOPPERUNDEVI N",
+        "type": "TH",
+        "id": "embedded-theory-47"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT602",
+        "faculty": "LAKSHMI S",
+        "type": "TH",
+        "id": "embedded-theory-39"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT627",
+        "faculty": "MARIAPPAN R",
+        "type": "TH",
+        "id": "embedded-theory-38"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT607",
+        "faculty": "MOHAMED YOUSUFF A R",
+        "type": "TH",
+        "id": "embedded-theory-30"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT607",
+        "faculty": "MOHAMED YOUSUFF A R",
+        "type": "TH",
+        "id": "embedded-theory-41"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT421",
+        "faculty": "MOHAN KUMAR P",
+        "type": "TH",
+        "id": "embedded-theory-13"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT504",
+        "faculty": "MOHANA SUNDARI L",
+        "type": "TH",
+        "id": "embedded-theory-18"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT504",
+        "faculty": "MOHANA SUNDARI L",
+        "type": "TH",
+        "id": "embedded-theory-14"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT501",
+        "faculty": "MUCHENEDI HARI KISHOR",
+        "type": "TH",
+        "id": "embedded-theory-6"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT501",
+        "faculty": "MUCHENEDI HARI KISHOR",
+        "type": "TH",
+        "id": "embedded-theory-4"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT421",
+        "faculty": "NARAYANAMOORTHI M",
+        "type": "TH",
+        "id": "embedded-theory-0"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT422",
+        "faculty": "NARESH K",
+        "type": "TH",
+        "id": "embedded-theory-1"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT603",
+        "faculty": "NITHYA K",
+        "type": "TH",
+        "id": "embedded-theory-35"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT603",
+        "faculty": "NITHYA K",
+        "type": "TH",
+        "id": "embedded-theory-44"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT626",
+        "faculty": "NITHYA N S",
+        "type": "TH",
+        "id": "embedded-theory-33"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT503",
+        "faculty": "PUSHPA GOTHWAL",
+        "type": "TH",
+        "id": "embedded-theory-24"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT503",
+        "faculty": "PUSHPA GOTHWAL",
+        "type": "TH",
+        "id": "embedded-theory-8"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT619",
+        "faculty": "RADHAKRISHNA MOHANTY",
+        "type": "TH",
+        "id": "embedded-theory-43"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT619",
+        "faculty": "RADHAKRISHNA MOHANTY",
+        "type": "TH",
+        "id": "embedded-theory-31"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT508",
+        "faculty": "RAGAVAN K",
+        "type": "TH",
+        "id": "embedded-theory-25"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT508",
+        "faculty": "RAGAVAN K",
+        "type": "TH",
+        "id": "embedded-theory-15"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT423",
+        "faculty": "RAJAKUMAR K",
+        "type": "TH",
+        "id": "embedded-theory-48"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT626",
+        "faculty": "SARWESH P",
+        "type": "TH",
+        "id": "embedded-theory-32"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT415",
+        "faculty": "SHARMILA C",
+        "type": "TH",
+        "id": "embedded-theory-22"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT415",
+        "faculty": "SHARMILA C",
+        "type": "TH",
+        "id": "embedded-theory-23"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT308",
+        "faculty": "SHOBHA REKH",
+        "type": "TH",
+        "id": "embedded-theory-46"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT522",
+        "faculty": "SIVARANJANI A",
+        "type": "TH",
+        "id": "embedded-theory-12"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT522",
+        "faculty": "SIVARANJANI A",
+        "type": "TH",
+        "id": "embedded-theory-21"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT513",
+        "faculty": "SUNIJA A P",
+        "type": "TH",
+        "id": "embedded-theory-19"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT513",
+        "faculty": "SUNIJA A P",
+        "type": "TH",
+        "id": "embedded-theory-10"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT627",
+        "faculty": "SURESH A",
+        "type": "TH",
+        "id": "embedded-theory-45"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT604",
+        "faculty": "SYAMASUDHA VEERAGANDHAM",
+        "type": "TH",
+        "id": "embedded-theory-28"
+      },
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT604",
+        "faculty": "SYAMASUDHA VEERAGANDHAM",
+        "type": "TH",
+        "id": "embedded-theory-29"
+      },
+      {
+        "slot": "A1+TA1",
+        "venue": "SJT422",
+        "faculty": "YOKESH BABU S",
+        "type": "TH",
+        "id": "embedded-theory-17"
+      }
+    ],
+    "sources": [
+      "DC/Embedded Theory/Screenshot 2026-10-28 at 9.48.17\u202fPM.png",
+      "DC/Embedded Theory/Screenshot 2026-10-28 at 9.48.25\u202fPM.png",
+      "DC/Embedded Theory/Screenshot 2026-10-28 at 9.48.30\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "A2"
+    ],
+    "morningSlots": [
+      "A1"
+    ],
+    "overviewSlot": null,
+    "requiredSlot": "A2"
+  },
+  {
+    "id": "software-theory-lab",
+    "name": "Software Engineering",
+    "category": "DC",
+    "codes": [
+      "BCSE301L",
+      "BCSE301P"
+    ],
+    "sections": [
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT619",
+        "faculty": "ADRIJA BHATTACHARYA",
+        "type": "TH",
+        "id": "software-theory-lab-32"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT503",
+        "faculty": "AJITHA D",
+        "type": "TH",
+        "id": "software-theory-lab-13"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT423",
+        "faculty": "ANAND BIHARI",
+        "type": "TH",
+        "id": "software-theory-lab-12"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT505",
+        "faculty": "ANTO S",
+        "type": "TH",
+        "id": "software-theory-lab-20"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT504",
+        "faculty": "ARIVOLI A",
+        "type": "TH",
+        "id": "software-theory-lab-10"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT504",
+        "faculty": "ARIVOLI A",
+        "type": "TH",
+        "id": "software-theory-lab-11"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT627",
+        "faculty": "ARUN PRASATH G",
+        "type": "TH",
+        "id": "software-theory-lab-22"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT627",
+        "faculty": "ARUN PRASATH G",
+        "type": "TH",
+        "id": "software-theory-lab-28"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT424",
+        "faculty": "BAIJU B V",
+        "type": "TH",
+        "id": "software-theory-lab-3"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT424",
+        "faculty": "BAIJU B V",
+        "type": "TH",
+        "id": "software-theory-lab-2"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT617",
+        "faculty": "BHAWANA TYAGI",
+        "type": "TH",
+        "id": "software-theory-lab-34"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT617",
+        "faculty": "BHAWANA TYAGI",
+        "type": "TH",
+        "id": "software-theory-lab-26"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT607",
+        "faculty": "DEEPA D",
+        "type": "TH",
+        "id": "software-theory-lab-30"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT607",
+        "faculty": "DEEPA D",
+        "type": "TH",
+        "id": "software-theory-lab-31"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT315",
+        "faculty": "DIVYA MEENA S",
+        "type": "TH",
+        "id": "software-theory-lab-37"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT501",
+        "faculty": "KAKELLI ANIL KUMAR",
+        "type": "TH",
+        "id": "software-theory-lab-9"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT422",
+        "faculty": "KANNADASAN R",
+        "type": "TH",
+        "id": "software-theory-lab-0"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT602",
+        "faculty": "MISHA CHANDAR B",
+        "type": "TH",
+        "id": "software-theory-lab-27"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT513",
+        "faculty": "MOHANKUMAR B",
+        "type": "TH",
+        "id": "software-theory-lab-24"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT513",
+        "faculty": "MOHANKUMAR B",
+        "type": "TH",
+        "id": "software-theory-lab-16"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT423",
+        "faculty": "MYTHILI T",
+        "type": "TH",
+        "id": "software-theory-lab-7"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT604",
+        "faculty": "NAGA PRIYADARSINI R",
+        "type": "TH",
+        "id": "software-theory-lab-25"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT604",
+        "faculty": "NAGA PRIYADARSINI R",
+        "type": "TH",
+        "id": "software-theory-lab-33"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT601",
+        "faculty": "NAVEEN KUMAR S",
+        "type": "TH",
+        "id": "software-theory-lab-38"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT522",
+        "faculty": "NAVEENKUMAR J",
+        "type": "TH",
+        "id": "software-theory-lab-17"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT508",
+        "faculty": "PARTHIBAN K",
+        "type": "TH",
+        "id": "software-theory-lab-19"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT508",
+        "faculty": "PARTHIBAN K",
+        "type": "TH",
+        "id": "software-theory-lab-1"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT603",
+        "faculty": "PRABIN S M",
+        "type": "TH",
+        "id": "software-theory-lab-29"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT501",
+        "faculty": "RAMANATHAN L",
+        "type": "TH",
+        "id": "software-theory-lab-6"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT422",
+        "faculty": "SARAVANAGURU RA.K",
+        "type": "TH",
+        "id": "software-theory-lab-5"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT502",
+        "faculty": "SATHYARAJ R",
+        "type": "TH",
+        "id": "software-theory-lab-14"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT503",
+        "faculty": "SENTHILNATHAN P",
+        "type": "TH",
+        "id": "software-theory-lab-18"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT502",
+        "faculty": "SENTHILNATHAN P",
+        "type": "TH",
+        "id": "software-theory-lab-15"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT415",
+        "faculty": "SHOBHA REKH",
+        "type": "TH",
+        "id": "software-theory-lab-36"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT626",
+        "faculty": "SUDHAKAR K",
+        "type": "TH",
+        "id": "software-theory-lab-23"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT421",
+        "faculty": "SWARNALATHA P",
+        "type": "TH",
+        "id": "software-theory-lab-4"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT602",
+        "faculty": "USHUS ELIZEBETH ZACHARIAH",
+        "type": "TH",
+        "id": "software-theory-lab-35"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT421",
+        "faculty": "USHUS ELIZEBETH ZACHARIAH",
+        "type": "TH",
+        "id": "software-theory-lab-8"
+      },
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT521",
+        "faculty": "VETRISELVI T",
+        "type": "TH",
+        "id": "software-theory-lab-21"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT521",
+        "faculty": "VETRISELVI T",
+        "type": "TH",
+        "id": "software-theory-lab-39"
+      },
+      {
+        "slot": "L23+L24",
+        "venue": "SJT317",
+        "faculty": "ADRIJA BHATTACHARYA",
+        "type": "LO",
+        "id": "software-theory-lab-69"
+      },
+      {
+        "slot": "L51+L52",
+        "venue": "SJT416",
+        "faculty": "ADRIJA BHATTACHARYA",
+        "type": "LO",
+        "id": "software-theory-lab-41"
+      },
+      {
+        "slot": "L29+L30",
+        "venue": "SJT417",
+        "faculty": "AJITHA D",
+        "type": "LO",
+        "id": "software-theory-lab-66"
+      },
+      {
+        "slot": "L33+L34",
+        "venue": "SJT316",
+        "faculty": "ANAND BIHARI",
+        "type": "LO",
+        "id": "software-theory-lab-58"
+      },
+      {
+        "slot": "L41+L42",
+        "venue": "SJT417",
+        "faculty": "ANTO S",
+        "type": "LO",
+        "id": "software-theory-lab-71"
+      },
+      {
+        "slot": "L5+L6",
+        "venue": "SJT622",
+        "faculty": "ANTO S",
+        "type": "LO",
+        "id": "software-theory-lab-53"
+      },
+      {
+        "slot": "L5+L6",
+        "venue": "SJT417",
+        "faculty": "ARIVOLI A",
+        "type": "LO",
+        "id": "software-theory-lab-65"
+      },
+      {
+        "slot": "L55+L56",
+        "venue": "SJT316",
+        "faculty": "ARIVOLI A",
+        "type": "LO",
+        "id": "software-theory-lab-54"
+      },
+      {
+        "slot": "L53+L54",
+        "venue": "SJT316",
+        "faculty": "ARUN PRASATH G",
+        "type": "LO",
+        "id": "software-theory-lab-78"
+      },
+      {
+        "slot": "L9+L10",
+        "venue": "SJT417",
+        "faculty": "ARUN PRASATH G",
+        "type": "LO",
+        "id": "software-theory-lab-79"
+      },
+      {
+        "slot": "L23+L24",
+        "venue": "SJT316",
+        "faculty": "BAIJU B V",
+        "type": "LO",
+        "id": "software-theory-lab-82"
+      },
+      {
+        "slot": "L51+L52",
+        "venue": "SJT316",
+        "faculty": "BAIJU B V",
+        "type": "LO",
+        "id": "software-theory-lab-86"
+      },
+      {
+        "slot": "L25+L26",
+        "venue": "SJT417",
+        "faculty": "BHAWANA TYAGI",
+        "type": "LO",
+        "id": "software-theory-lab-76"
+      },
+      {
+        "slot": "L37+L38",
+        "venue": "SJT317",
+        "faculty": "BHAWANA TYAGI",
+        "type": "LO",
+        "id": "software-theory-lab-75"
+      },
+      {
+        "slot": "L47+L48",
+        "venue": "SJT317",
+        "faculty": "DEEPA D",
+        "type": "LO",
+        "id": "software-theory-lab-74"
+      },
+      {
+        "slot": "L7+L8",
+        "venue": "SJT417",
+        "faculty": "DEEPA D",
+        "type": "LO",
+        "id": "software-theory-lab-73"
+      },
+      {
+        "slot": "L45+L46",
+        "venue": "SJT316",
+        "faculty": "DIVYA MEENA S",
+        "type": "LO",
+        "id": "software-theory-lab-84"
+      },
+      {
+        "slot": "L13+L14",
+        "venue": "SJT316",
+        "faculty": "KALAAVATHI B",
+        "type": "LO",
+        "id": "software-theory-lab-40"
+      },
+      {
+        "slot": "L3+L4",
+        "venue": "SJT621",
+        "faculty": "KANNADASAN R",
+        "type": "LO",
+        "id": "software-theory-lab-49"
+      },
+      {
+        "slot": "L1+L2",
+        "venue": "SJT316",
+        "faculty": "MISHA CHANDAR B",
+        "type": "LO",
+        "id": "software-theory-lab-59"
+      },
+      {
+        "slot": "L49+L50",
+        "venue": "SJT416",
+        "faculty": "MISHA CHANDAR B",
+        "type": "LO",
+        "id": "software-theory-lab-81"
+      },
+      {
+        "slot": "L37+L38",
+        "venue": "SJT621",
+        "faculty": "MOHANKUMAR B",
+        "type": "LO",
+        "id": "software-theory-lab-45"
+      },
+      {
+        "slot": "L9+L10",
+        "venue": "SJT621",
+        "faculty": "MOHANKUMAR B",
+        "type": "LO",
+        "id": "software-theory-lab-46"
+      },
+      {
+        "slot": "L27+L28",
+        "venue": "SJT316",
+        "faculty": "MYTHILI T",
+        "type": "LO",
+        "id": "software-theory-lab-64"
+      },
+      {
+        "slot": "L19+L20",
+        "venue": "SJT417",
+        "faculty": "NAGA PRIYADARSINI R",
+        "type": "LO",
+        "id": "software-theory-lab-72"
+      },
+      {
+        "slot": "L35+L36",
+        "venue": "SJT317",
+        "faculty": "NAGA PRIYADARSINI R",
+        "type": "LO",
+        "id": "software-theory-lab-68"
+      },
+      {
+        "slot": "L11+L12",
+        "venue": "SJT417",
+        "faculty": "NAVEEN KUMAR S",
+        "type": "LO",
+        "id": "software-theory-lab-63"
+      },
+      {
+        "slot": "L11+L12",
+        "venue": "SJT622",
+        "faculty": "NAVEENKUMAR J",
+        "type": "LO",
+        "id": "software-theory-lab-62"
+      },
+      {
+        "slot": "L47+L48",
+        "venue": "SJT622",
+        "faculty": "NAVEENKUMAR J",
+        "type": "LO",
+        "id": "software-theory-lab-83"
+      },
+      {
+        "slot": "L21+L22",
+        "venue": "SJT316",
+        "faculty": "PARTHIBAN K",
+        "type": "LO",
+        "id": "software-theory-lab-55"
+      },
+      {
+        "slot": "L41+L42",
+        "venue": "SJT316",
+        "faculty": "PARTHIBAN K",
+        "type": "LO",
+        "id": "software-theory-lab-56"
+      },
+      {
+        "slot": "L51+L52",
+        "venue": "SJT622",
+        "faculty": "PRABIN S M",
+        "type": "LO",
+        "id": "software-theory-lab-61"
+      },
+      {
+        "slot": "L9+L10",
+        "venue": "SJT316",
+        "faculty": "PRABIN S M",
+        "type": "LO",
+        "id": "software-theory-lab-52"
+      },
+      {
+        "slot": "L1+L2",
+        "venue": "SJT219",
+        "faculty": "RAJALAKSHMI L",
+        "type": "LO",
+        "id": "software-theory-lab-80"
+      },
+      {
+        "slot": "L39+L40",
+        "venue": "SJT621",
+        "faculty": "RAMANATHAN L",
+        "type": "LO",
+        "id": "software-theory-lab-44"
+      },
+      {
+        "slot": "L31+L32",
+        "venue": "SJT621",
+        "faculty": "SARAVANAGURU RA.K",
+        "type": "LO",
+        "id": "software-theory-lab-43"
+      },
+      {
+        "slot": "L43+L44",
+        "venue": "SJT621",
+        "faculty": "SATHYARAJ R",
+        "type": "LO",
+        "id": "software-theory-lab-57"
+      },
+      {
+        "slot": "L49+L50",
+        "venue": "SJT316",
+        "faculty": "SENTHILNATHAN P",
+        "type": "LO",
+        "id": "software-theory-lab-50"
+      },
+      {
+        "slot": "L7+L8",
+        "venue": "SJT316",
+        "faculty": "SENTHILNATHAN P",
+        "type": "LO",
+        "id": "software-theory-lab-51"
+      },
+      {
+        "slot": "L21+L22",
+        "venue": "SJT622",
+        "faculty": "SHOBHA REKH",
+        "type": "LO",
+        "id": "software-theory-lab-67"
+      },
+      {
+        "slot": "L25+L26",
+        "venue": "SJT316",
+        "faculty": "SUDHAKAR K",
+        "type": "LO",
+        "id": "software-theory-lab-77"
+      },
+      {
+        "slot": "L53+L54",
+        "venue": "SJT417",
+        "faculty": "SUDHAKAR K",
+        "type": "LO",
+        "id": "software-theory-lab-70"
+      },
+      {
+        "slot": "L49+L50",
+        "venue": "SJT516",
+        "faculty": "SWARNALATHA P",
+        "type": "LO",
+        "id": "software-theory-lab-42"
+      },
+      {
+        "slot": "L21+L22",
+        "venue": "SJT621",
+        "faculty": "USHUS ELIZEBETH ZACHARIAH",
+        "type": "LO",
+        "id": "software-theory-lab-47"
+      },
+      {
+        "slot": "L55+L56",
+        "venue": "SJT621",
+        "faculty": "USHUS ELIZEBETH ZACHARIAH",
+        "type": "LO",
+        "id": "software-theory-lab-48"
+      },
+      {
+        "slot": "L19+L20",
+        "venue": "SJT622",
+        "faculty": "VETRISELVI T",
+        "type": "LO",
+        "id": "software-theory-lab-85"
+      },
+      {
+        "slot": "L39+L40",
+        "venue": "SJT622",
+        "faculty": "VETRISELVI T",
+        "type": "LO",
+        "id": "software-theory-lab-60"
+      }
+    ],
+    "sources": [
+      "DC/Software Theory + Lab/Screenshot 2026-10-28 at 9.49.38\u202fPM.png",
+      "DC/Software Theory + Lab/Screenshot 2026-10-28 at 9.49.44\u202fPM.png",
+      "DC/Software Theory + Lab/Screenshot 2026-10-28 at 9.49.49\u202fPM.png",
+      "DC/Software Theory + Lab/Screenshot 2026-10-28 at 9.50.03\u202fPM.png",
+      "DC/Software Theory + Lab/Screenshot 2026-10-28 at 9.50.10\u202fPM.png",
+      "DC/Software Theory + Lab/Screenshot 2026-10-28 at 9.50.14\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "F2"
+    ],
+    "morningSlots": [
+      "E1",
+      "F1"
+    ],
+    "overviewSlot": null,
+    "requiredSlot": "F2"
+  },
+  {
+    "id": "blockchain-architecture-design",
+    "name": "Blockchain Architecture Design",
+    "category": "DE",
+    "codes": [
+      "BCSE326L"
+    ],
+    "sections": [
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT415",
+        "faculty": "EZHIL ARASI V",
+        "type": "TH",
+        "id": "blockchain-architecture-design-0"
+      },
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT303",
+        "faculty": "VISHNUYADAV S",
+        "type": "TH",
+        "id": "blockchain-architecture-design-1"
+      }
+    ],
+    "sources": [
+      "DE/Blockchain Architecture Design/Screenshot 2026-10-28 at 10.10.02\u202fPM.png",
+      "User-provided update/Blockchain Architecture Design - F1 and F2.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "F2"
+    ],
+    "morningSlots": [
+      "F1"
+    ],
+    "overviewSlot": "F2"
+  },
+  {
+    "id": "blockchain-and-distributed-ledger-technology-theory-lab",
+    "name": "Blockchain and Distributed Ledger Technology",
+    "category": "DE",
+    "codes": [
+      "BCSE329L",
+      "BCSE329P"
+    ],
+    "sections": [
+      {
+        "slot": "E1",
+        "venue": "SJT415",
+        "faculty": "KAUSHIK HARIHARAN G",
+        "type": "TH",
+        "id": "blockchain-and-distributed-ledger-technology-theory-lab-0"
+      },
+      {
+        "slot": "L35+L36",
+        "venue": "PRP353",
+        "faculty": "KAUSHIK HARIHARAN G",
+        "type": "LO",
+        "id": "blockchain-and-distributed-ledger-technology-theory-lab-1"
+      }
+    ],
+    "sources": [
+      "DE/Blockchain and Distributed Ledger Technology Theory + Lab/Screenshot 2026-10-28 at 10.11.54\u202fPM.png",
+      "DE/Blockchain and Distributed Ledger Technology Theory + Lab/Screenshot 2026-10-28 at 10.12.01\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [],
+    "morningSlots": [
+      "E1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "computer-vision",
+    "name": "Computer Vision",
+    "category": "DE",
+    "codes": [
+      "BCSE407L"
+    ],
+    "sections": [
+      {
+        "slot": "D2+TD2",
+        "venue": "SJT502",
+        "faculty": "BHAWANA TYAGI",
+        "type": "TH",
+        "id": "computer-vision-1"
+      },
+      {
+        "slot": "D2+TD2",
+        "venue": "SJT501",
+        "faculty": "DHEEBA J",
+        "type": "TH",
+        "id": "computer-vision-2"
+      },
+      {
+        "slot": "D1+TD1",
+        "venue": "SJT504",
+        "faculty": "DURGESH KUMAR",
+        "type": "TH",
+        "id": "computer-vision-0"
+      },
+      {
+        "slot": "D2+TD2",
+        "venue": "SJT324",
+        "faculty": "VETRISELVI T",
+        "type": "TH",
+        "id": "computer-vision-3"
+      }
+    ],
+    "sources": [
+      "DE/Computer Vision /Screenshot 2026-10-28 at 10.16.02\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "D2"
+    ],
+    "morningSlots": [
+      "D1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "cryptocurrency-technologies",
+    "name": "Cryptocurrency Technologies",
+    "category": "DE",
+    "codes": [
+      "BCSE328L"
+    ],
+    "sections": [
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT415",
+        "faculty": "DEEPIKA J",
+        "type": "TH",
+        "id": "cryptocurrency-technologies-0"
+      }
+    ],
+    "sources": [
+      "DE/Cryptocurrency Technologies/Screenshot 2026-10-28 at 10.11.35\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [],
+    "morningSlots": [
+      "G1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "data-mining-theory-lab",
+    "name": "Data Mining",
+    "category": "DE",
+    "codes": [
+      "BCSE208L",
+      "BCSE208P"
+    ],
+    "sections": [
+      {
+        "slot": "B1",
+        "venue": "SJT602A",
+        "faculty": "ANTONY SEBA P",
+        "type": "TH",
+        "id": "data-mining-theory-lab-0"
+      },
+      {
+        "slot": "B2",
+        "venue": "SJT602A",
+        "faculty": "ANTONY SEBA P",
+        "type": "TH",
+        "id": "data-mining-theory-lab-1"
+      },
+      {
+        "slot": "L27+L28",
+        "venue": "SJT621",
+        "faculty": "ANTONY SEBA P",
+        "type": "LO",
+        "id": "data-mining-theory-lab-2"
+      },
+      {
+        "slot": "L45+L46",
+        "venue": "SJT622",
+        "faculty": "ANTONY SEBA P",
+        "type": "LO",
+        "id": "data-mining-theory-lab-3"
+      }
+    ],
+    "sources": [
+      "DE/Data Mining Theory + Lab/Screenshot 2026-10-28 at 9.59.41\u202fPM.png",
+      "DE/Data Mining Theory + Lab/Screenshot 2026-10-28 at 9.59.49\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "B2"
+    ],
+    "morningSlots": [
+      "B1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "data-privacy",
+    "name": "Data Privacy",
+    "category": "DE",
+    "codes": [
+      "BCSE318L"
+    ],
+    "sections": [
+      {
+        "slot": "D1+TD1",
+        "venue": "SJT503",
+        "faculty": "SUDARSHAN NANDY",
+        "type": "TH",
+        "id": "data-privacy-0"
+      }
+    ],
+    "sources": [
+      "DE/Data Privacy/Screenshot 2026-10-28 at 10.04.44\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [],
+    "morningSlots": [
+      "D1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "deep-learning-theory-lab",
+    "name": "Deep Learning",
+    "category": "DE",
+    "codes": [
+      "BCSE332L",
+      "BCSE332P"
+    ],
+    "sections": [
+      {
+        "slot": "F1+TF1",
+        "venue": "SJT324",
+        "faculty": "MAHESWARI B",
+        "type": "TH",
+        "id": "deep-learning-theory-lab-1"
+      },
+      {
+        "slot": "G2+TG2",
+        "venue": "SJT324",
+        "faculty": "MALATHI M",
+        "type": "TH",
+        "id": "deep-learning-theory-lab-0"
+      },
+      {
+        "slot": "L53+L54",
+        "venue": "SJT418",
+        "faculty": "MAHESWARI B",
+        "type": "LO",
+        "id": "deep-learning-theory-lab-2"
+      },
+      {
+        "slot": "L5+L6",
+        "venue": "SJT621",
+        "faculty": "MALATHI M",
+        "type": "LO",
+        "id": "deep-learning-theory-lab-3"
+      }
+    ],
+    "sources": [
+      "DE/Deep Learning Theory + Lab/Screenshot 2026-10-28 at 10.14.29\u202fPM.png",
+      "DE/Deep Learning Theory + Lab/Screenshot 2026-10-28 at 10.14.34\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "G2"
+    ],
+    "morningSlots": [
+      "F1"
+    ],
+    "overviewSlot": "G2"
+  },
+  {
+    "id": "design-of-smart-cities",
+    "name": "Design of Smart Cities",
+    "category": "DE",
+    "codes": [
+      "BCSE316L"
+    ],
+    "sections": [
+      {
+        "slot": "E2+TE2",
+        "venue": "SJT407",
+        "faculty": "SWARNALATHA P",
+        "type": "TH",
+        "id": "design-of-smart-cities-0"
+      }
+    ],
+    "sources": [
+      "DE/Design of Smart Cities/Screenshot 2026-10-28 at 10.03.50\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "E2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": null
+  },
+  {
+    "id": "digital-forensics-lab",
+    "name": "Digital Forensics",
+    "category": "DE",
+    "codes": [
+      "BCSE322L",
+      "BCSE322P"
+    ],
+    "sections": [
+      {
+        "slot": "G2",
+        "venue": "SJT407",
+        "faculty": "KAUSHIK HARIHARAN G",
+        "type": "TH",
+        "id": "digital-forensics-lab-0"
+      },
+      {
+        "slot": "L11+L12",
+        "venue": "PRP352",
+        "faculty": "KAUSHIK HARIHARAN G",
+        "type": "LO",
+        "id": "digital-forensics-lab-1"
+      }
+    ],
+    "sources": [
+      "DE/Digital Forensics Lab/Screenshot 2026-10-28 at 10.06.43\u202fPM.png",
+      "DE/Digital Forensics Lab/Screenshot 2026-10-28 at 10.06.50\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "G2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": "G2"
+  },
+  {
+    "id": "digital-image-processing",
+    "name": "Digital Image Processing",
+    "category": "DE",
+    "codes": [
+      "BCSE403L"
+    ],
+    "sections": [
+      {
+        "slot": "D1+TD1",
+        "venue": "SJT407",
+        "faculty": "ANISHA M. LAL",
+        "type": "TH",
+        "id": "digital-image-processing-1"
+      },
+      {
+        "slot": "D2+TD2",
+        "venue": "SJT407",
+        "faculty": "NATARAJAN P",
+        "type": "TH",
+        "id": "digital-image-processing-0"
+      },
+      {
+        "slot": "B1+TB1",
+        "venue": "SJT627",
+        "faculty": "PRIYA S",
+        "type": "TH",
+        "id": "digital-image-processing-3"
+      },
+      {
+        "slot": "D1+TD1",
+        "venue": "SJT408",
+        "faculty": "RAKHI MOL V",
+        "type": "TH",
+        "id": "digital-image-processing-2"
+      }
+    ],
+    "sources": [
+      "DE/Digital Image Processing/Screenshot 2026-10-28 at 10.15.32\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "D2"
+    ],
+    "morningSlots": [
+      "B1",
+      "D1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "digital-watermarking-and-steganography",
+    "name": "Digital Watermarking and Steganography",
+    "category": "DE",
+    "codes": [
+      "BCSE323L"
+    ],
+    "sections": [
+      {
+        "slot": "E1+TE1",
+        "venue": "SJT407",
+        "faculty": "BALASUBRAMANIAN C",
+        "type": "TH",
+        "id": "digital-watermarking-and-steganography-0"
+      }
+    ],
+    "sources": [
+      "DE/Digital Watermarking and Steganography/Screenshot 2026-10-28 at 10.07.21\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [],
+    "morningSlots": [
+      "E1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "explainable-artificial-intelligence",
+    "name": "Explainable Artificial Intelligence",
+    "category": "DE",
+    "codes": [
+      "BCSE418L"
+    ],
+    "sections": [
+      {
+        "slot": "A2",
+        "venue": "SJT304",
+        "faculty": "ARUN PRASATH G",
+        "type": "TH",
+        "id": "explainable-artificial-intelligence-0"
+      }
+    ],
+    "sources": [
+      "DE/Explainable Artificial Intelligence/Screenshot 2026-10-28 at 10.18.09\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "A2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": "A2"
+  },
+  {
+    "id": "exploratory-data-analysis-theory-lab",
+    "name": "Exploratory Data Analysis",
+    "category": "DE",
+    "codes": [
+      "BCSE331L",
+      "BCSE331P"
+    ],
+    "sections": [
+      {
+        "slot": "A2",
+        "venue": "SJT408",
+        "faculty": "SANGEETHA S",
+        "type": "TH",
+        "id": "exploratory-data-analysis-theory-lab-0"
+      },
+      {
+        "slot": "L27+L28",
+        "venue": "SJT419",
+        "faculty": "SANGEETHA S",
+        "type": "LO",
+        "id": "exploratory-data-analysis-theory-lab-1"
+      }
+    ],
+    "sources": [
+      "DE/Exploratory Data Analysis Theory + Lab/Screenshot 2026-10-28 at 10.13.39\u202fPM.png",
+      "DE/Exploratory Data Analysis Theory + Lab/Screenshot 2026-10-28 at 10.13.44\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "A2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": "A2"
+  },
+  {
+    "id": "foundations-of-blockchain-technology",
+    "name": "Foundations of Blockchain Technology",
+    "category": "DE",
+    "codes": [
+      "BCSE324L"
+    ],
+    "sections": [
+      {
+        "slot": "C2+TC2",
+        "venue": "SJT508",
+        "faculty": "RAMESH BABU K",
+        "type": "TH",
+        "id": "foundations-of-blockchain-technology-0"
+      }
+    ],
+    "sources": [
+      "DE/Foundations of Blockchain Technology/Screenshot 2026-10-28 at 10.08.21\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "C2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": null
+  },
+  {
+    "id": "foundations-of-datascience",
+    "name": "Foundations of Data Science",
+    "category": "DE",
+    "codes": [
+      "BCSE206L"
+    ],
+    "sections": [
+      {
+        "slot": "C1+TC1",
+        "venue": "SJT604",
+        "faculty": "GUNASEKAR M",
+        "type": "TH",
+        "id": "foundations-of-datascience-1"
+      },
+      {
+        "slot": "C2+TC2",
+        "venue": "SJT601",
+        "faculty": "RADHAKRISHNAN DELHIBABU",
+        "type": "TH",
+        "id": "foundations-of-datascience-0"
+      }
+    ],
+    "sources": [
+      "DE/Foundations of DataScience/Screenshot 2026-10-28 at 9.58.38\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "C2"
+    ],
+    "morningSlots": [
+      "C1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "fundamentals-of-edge-computing",
+    "name": "Fundamentals of Fog and Edge Computing",
+    "category": "DE",
+    "codes": [
+      "BCSE313L"
+    ],
+    "sections": [
+      {
+        "slot": "B2+TB2",
+        "venue": "SJT508",
+        "faculty": "SUDHAKAR K",
+        "type": "TH",
+        "id": "fundamentals-of-edge-computing-0"
+      }
+    ],
+    "sources": [
+      "DE/Fundamentals of Edge Computing /Screenshot 2026-10-28 at 10.02.24\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "B2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": null
+  },
+  {
+    "id": "information-security",
+    "name": "Information Security",
+    "category": "DE",
+    "codes": [
+      "BCSE317L"
+    ],
+    "sections": [
+      {
+        "slot": "C1+TC1",
+        "venue": "SJT505",
+        "faculty": "JOSHVA DEVADAS T",
+        "type": "TH",
+        "id": "information-security-0"
+      }
+    ],
+    "sources": [
+      "DE/Information Security/Screenshot 2026-10-28 at 10.04.18\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [],
+    "morningSlots": [
+      "C1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "introduction-to-bitcoin",
+    "name": "Introduction to Bitcoin",
+    "category": "DE",
+    "codes": [
+      "BCSE325L"
+    ],
+    "sections": [
+      {
+        "slot": "D2+TD2",
+        "venue": "SJT311",
+        "faculty": "CHANDRU VIGNESH C",
+        "type": "TH",
+        "id": "introduction-to-bitcoin-0"
+      }
+    ],
+    "sources": [
+      "DE/Introduction to Bitcoin/Screenshot 2026-10-28 at 10.08.53\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "D2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": null
+  },
+  {
+    "id": "machine-learning-theory-lab",
+    "name": "Machine Learning",
+    "category": "DE",
+    "codes": [
+      "BCSE209L",
+      "BCSE209P"
+    ],
+    "sections": [
+      {
+        "slot": "B1+TB1",
+        "venue": "SJT308",
+        "faculty": "GAYATHRI S",
+        "type": "TH",
+        "id": "machine-learning-theory-lab-2"
+      },
+      {
+        "slot": "C1+TC1",
+        "venue": "SJT324",
+        "faculty": "MANJULA R",
+        "type": "TH",
+        "id": "machine-learning-theory-lab-3"
+      },
+      {
+        "slot": "C2+TC2",
+        "venue": "SJT324",
+        "faculty": "MANJULA R",
+        "type": "TH",
+        "id": "machine-learning-theory-lab-0"
+      },
+      {
+        "slot": "E1+TE1",
+        "venue": "SJT324",
+        "faculty": "SAYAN SIKDER",
+        "type": "TH",
+        "id": "machine-learning-theory-lab-1"
+      },
+      {
+        "slot": "L39+L40",
+        "venue": "SJT418",
+        "faculty": "GAYATHRI S",
+        "type": "LO",
+        "id": "machine-learning-theory-lab-5"
+      },
+      {
+        "slot": "L19+L20",
+        "venue": "SJT418",
+        "faculty": "MANJULA R",
+        "type": "LO",
+        "id": "machine-learning-theory-lab-4"
+      },
+      {
+        "slot": "L33+L34",
+        "venue": "SJT515",
+        "faculty": "MANJULA R",
+        "type": "LO",
+        "id": "machine-learning-theory-lab-6"
+      },
+      {
+        "slot": "L47+L48",
+        "venue": "SJT416",
+        "faculty": "SAYAN SIKDER",
+        "type": "LO",
+        "id": "machine-learning-theory-lab-7"
+      }
+    ],
+    "sources": [
+      "DE/Machine Learning Theory + Lab/Screenshot 2026-10-28 at 10.00.22\u202fPM.png",
+      "DE/Machine Learning Theory + Lab/Screenshot 2026-10-28 at 10.00.26\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "C2"
+    ],
+    "morningSlots": [
+      "B1",
+      "C1",
+      "E1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "machine-vision-theory-lab",
+    "name": "Machine Vision",
+    "category": "DE",
+    "codes": [
+      "BCSE417L",
+      "BCSE417P"
+    ],
+    "sections": [
+      {
+        "slot": "D1+TD1",
+        "venue": "SJT421",
+        "faculty": "AJU D",
+        "type": "TH",
+        "id": "machine-vision-theory-lab-0"
+      },
+      {
+        "slot": "D2+TD2",
+        "venue": "SJT424",
+        "faculty": "ARPITA GHOSH",
+        "type": "TH",
+        "id": "machine-vision-theory-lab-1"
+      },
+      {
+        "slot": "L49+L50",
+        "venue": "SJT418",
+        "faculty": "AJU D",
+        "type": "LO",
+        "id": "machine-vision-theory-lab-3"
+      },
+      {
+        "slot": "L11+L12",
+        "venue": "PRP655",
+        "faculty": "ARPITA GHOSH",
+        "type": "LO",
+        "id": "machine-vision-theory-lab-2"
+      }
+    ],
+    "sources": [
+      "DE/Machine Vision Theory + Lab/Screenshot 2026-10-28 at 10.17.41\u202fPM.png",
+      "DE/Machine Vision Theory + Lab/Screenshot 2026-10-28 at 10.17.44\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "D2"
+    ],
+    "morningSlots": [
+      "D1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "malware-analysis",
+    "name": "Malware Analysis",
+    "category": "DE",
+    "codes": [
+      "BCSE321L",
+      "BCSE321P"
+    ],
+    "sections": [
+      {
+        "slot": "A1",
+        "venue": "SJT315",
+        "faculty": "JAYAKUMAR S",
+        "type": "TH",
+        "id": "malware-analysis-0"
+      },
+      {
+        "slot": "L41+L42",
+        "venue": "PRP350",
+        "faculty": "JAYAKUMAR S",
+        "type": "LO",
+        "id": "malware-analysis-1"
+      }
+    ],
+    "sources": [
+      "DE/Malware Analysis/Screenshot 2026-10-28 at 10.06.18\u202fPM.png",
+      "DE/Malware Analysis/Screenshot 2026-10-28 at 10.06.22\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [],
+    "morningSlots": [
+      "A1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "natural-language-processing",
+    "name": "Natural Language Processing",
+    "category": "DE",
+    "codes": [
+      "BCSE409L"
+    ],
+    "sections": [
+      {
+        "slot": "C2+TC2",
+        "venue": "SJT422",
+        "faculty": "DIVYA MEENA S",
+        "type": "TH",
+        "id": "natural-language-processing-2"
+      },
+      {
+        "slot": "C2+TC2",
+        "venue": "SJT423",
+        "faculty": "PRABHAKARAN N",
+        "type": "TH",
+        "id": "natural-language-processing-0"
+      },
+      {
+        "slot": "C1+TC1",
+        "venue": "SJT421",
+        "faculty": "PRIYA G",
+        "type": "TH",
+        "id": "natural-language-processing-1"
+      },
+      {
+        "slot": "C1+TC1",
+        "venue": "SJT422",
+        "faculty": "SATHYARAJ R",
+        "type": "TH",
+        "id": "natural-language-processing-4"
+      },
+      {
+        "slot": "C2+TC2",
+        "venue": "SJT421",
+        "faculty": "SHARMILA BANU K",
+        "type": "TH",
+        "id": "natural-language-processing-5"
+      },
+      {
+        "slot": "C1+TC1",
+        "venue": "SJT423",
+        "faculty": "SOMASUNDARAM R",
+        "type": "TH",
+        "id": "natural-language-processing-3"
+      }
+    ],
+    "sources": [
+      "DE/Natural Language Processing/Screenshot 2026-10-28 at 10.16.46\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "C2"
+    ],
+    "morningSlots": [
+      "C1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "parallel-computing",
+    "name": "Parallel Computing",
+    "category": "DE",
+    "codes": [
+      "BCSE412L"
+    ],
+    "sections": [
+      {
+        "slot": "B2+TB2",
+        "venue": "SJT503",
+        "faculty": "DILIPKUMAR S",
+        "type": "TH",
+        "id": "parallel-computing-1"
+      },
+      {
+        "slot": "B1+TB1",
+        "venue": "SJT503",
+        "faculty": "NARAYANAN PRASANTH",
+        "type": "TH",
+        "id": "parallel-computing-0"
+      }
+    ],
+    "sources": [
+      "DE/Parallel Computing/Screenshot 2026-10-28 at 10.17.19\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "B2"
+    ],
+    "morningSlots": [
+      "B1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "penetration-testing-and-vulnerability-analysis-theory-lab",
+    "name": "Penetration Testing and Vulnerability Analysis",
+    "category": "DE",
+    "codes": [
+      "BCSE319L",
+      "BCSE319P"
+    ],
+    "sections": [
+      {
+        "slot": "B1",
+        "venue": "SJT607",
+        "faculty": "PRAKASH G",
+        "type": "TH",
+        "id": "penetration-testing-and-vulnerability-analysis-theory-lab-0"
+      },
+      {
+        "slot": "B2",
+        "venue": "SJT301",
+        "faculty": "PRAKASH G",
+        "type": "TH",
+        "id": "penetration-testing-and-vulnerability-analysis-theory-lab-1"
+      },
+      {
+        "slot": "L27+L28",
+        "venue": "PRP350",
+        "faculty": "PRAKASH G",
+        "type": "LO",
+        "id": "penetration-testing-and-vulnerability-analysis-theory-lab-2"
+      },
+      {
+        "slot": "L33+L34",
+        "venue": "PRP350 (",
+        "faculty": "PRAKASH G",
+        "type": "LO",
+        "id": "penetration-testing-and-vulnerability-analysis-theory-lab-3"
+      }
+    ],
+    "sources": [
+      "DE/Penetration Testing and Vulnerability Analysis Theory + Lab/Screenshot 2026-10-28 at 10.05.17\u202fPM.png",
+      "DE/Penetration Testing and Vulnerability Analysis Theory + Lab/Screenshot 2026-10-28 at 10.05.54\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "B2"
+    ],
+    "morningSlots": [
+      "B1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "predictive-analytics",
+    "name": "Predictive Analytics",
+    "category": "DE",
+    "codes": [
+      "BCSE334L"
+    ],
+    "sections": [
+      {
+        "slot": "F2+TF2",
+        "venue": "SJT324",
+        "faculty": "CHELLATAMILAN T",
+        "type": "TH",
+        "id": "predictive-analytics-0"
+      }
+    ],
+    "sources": [
+      "DE/Predictive Analytics/Screenshot 2026-10-28 at 10.15.00\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "F2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": "F2"
+  },
+  {
+    "id": "privacy-and-security-in-iot",
+    "name": "Privacy and Security in IoT",
+    "category": "DE",
+    "codes": [
+      "BCSE314L"
+    ],
+    "sections": [
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT407",
+        "faculty": "GOPINATH M",
+        "type": "TH",
+        "id": "privacy-and-security-in-iot-0"
+      }
+    ],
+    "sources": [
+      "DE/Privacy and Security in IoT/Screenshot 2026-10-28 at 10.02.58\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "A2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": "A2"
+  },
+  {
+    "id": "programming-for-datascience-theory-lab",
+    "name": "Programming for Data Science",
+    "category": "DE",
+    "codes": [
+      "BCSE207L",
+      "BCSE207P"
+    ],
+    "sections": [
+      {
+        "slot": "D2",
+        "venue": "SJT603",
+        "faculty": "AVISHEK NANDI",
+        "type": "TH",
+        "id": "programming-for-datascience-theory-lab-2"
+      },
+      {
+        "slot": "D1",
+        "venue": "SJT601",
+        "faculty": "KARTHIKA M S",
+        "type": "TH",
+        "id": "programming-for-datascience-theory-lab-1"
+      },
+      {
+        "slot": "D2",
+        "venue": "SJT521",
+        "faculty": "RAJASEKHARA BABU M",
+        "type": "TH",
+        "id": "programming-for-datascience-theory-lab-0"
+      },
+      {
+        "slot": "L13+L14",
+        "venue": "SJT417",
+        "faculty": "AVISHEK NANDI",
+        "type": "LO",
+        "id": "programming-for-datascience-theory-lab-4"
+      },
+      {
+        "slot": "L37+L38",
+        "venue": "SJT622",
+        "faculty": "KARTHIKA M S",
+        "type": "LO",
+        "id": "programming-for-datascience-theory-lab-5"
+      },
+      {
+        "slot": "L9+L10",
+        "venue": "SJT418",
+        "faculty": "RAJASEKHARA BABU M",
+        "type": "LO",
+        "id": "programming-for-datascience-theory-lab-3"
+      }
+    ],
+    "sources": [
+      "DE/Programming for DataScience Theory + Lab/Screenshot 2026-10-28 at 9.59.07\u202fPM.png",
+      "DE/Programming for DataScience Theory + Lab/Screenshot 2026-10-28 at 9.59.12\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "D2"
+    ],
+    "morningSlots": [
+      "D1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "programming-for-iot-boards-theory-lab",
+    "name": "Programming for IoT Boards",
+    "category": "DE",
+    "codes": [
+      "BCSE312L",
+      "BCSE312P"
+    ],
+    "sections": [
+      {
+        "slot": "F1",
+        "venue": "SJT408",
+        "faculty": "PUSHPA GOTHWAL",
+        "type": "TH",
+        "id": "programming-for-iot-boards-theory-lab-0"
+      },
+      {
+        "slot": "L41+L42",
+        "venue": "SJT516",
+        "faculty": "PUSHPA GOTHWAL",
+        "type": "LO",
+        "id": "programming-for-iot-boards-theory-lab-1"
+      }
+    ],
+    "sources": [
+      "DE/Programming for IoT Boards Theory + Lab/Screenshot 2026-10-28 at 10.00.40\u202fPM.png",
+      "DE/Programming for IoT Boards Theory + Lab/Screenshot 2026-10-28 at 10.00.48\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [],
+    "morningSlots": [
+      "F1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "public-key-infrastructure-and-trust-management",
+    "name": "Public Key Infrastructure and Trust Management",
+    "category": "DE",
+    "codes": [
+      "BCSE330L"
+    ],
+    "sections": [
+      {
+        "slot": "A2+TA2",
+        "venue": "SJT409",
+        "faculty": "GOUTAM MAJUMDER",
+        "type": "TH",
+        "id": "public-key-infrastructure-and-trust-management-0"
+      }
+    ],
+    "sources": [
+      "DE/Public Key Infrastructure and Trust Management/Screenshot 2026-10-28 at 10.12.58\u202fPM 1.png",
+      "DE/Public Key Infrastructure and Trust Management/Screenshot 2026-10-28 at 10.12.58\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [
+      "A2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": "A2"
+  },
+  {
+    "id": "reinforcement-learning",
+    "name": "Reinforcement Learning",
+    "category": "DE",
+    "codes": [
+      "BCSE432E"
+    ],
+    "sections": [
+      {
+        "slot": "B1+TB1",
+        "venue": "SJT421",
+        "faculty": "ARPAN GARAI",
+        "type": "ETH",
+        "id": "reinforcement-learning-1"
+      },
+      {
+        "slot": "B2+TB2",
+        "venue": "SJT423",
+        "faculty": "GINA GEORGE",
+        "type": "ETH",
+        "id": "reinforcement-learning-2"
+      },
+      {
+        "slot": "L45+L46",
+        "venue": "SJT419",
+        "faculty": "ARPAN GARAI",
+        "type": "ELA",
+        "id": "reinforcement-learning-0"
+      },
+      {
+        "slot": "L29+L30",
+        "venue": "SJT515",
+        "faculty": "GINA GEORGE",
+        "type": "ELA",
+        "id": "reinforcement-learning-3"
+      }
+    ],
+    "sources": [
+      "DE/Reinforcement Learning /Screenshot 2026-10-28 at 10.19.18\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "B2"
+    ],
+    "morningSlots": [
+      "B1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "smart-contracts-theory-lab",
+    "name": "Smart Contracts",
+    "category": "DE",
+    "codes": [
+      "BCSE327L",
+      "BCSE327P"
+    ],
+    "sections": [
+      {
+        "slot": "B2",
+        "venue": "SJT513",
+        "faculty": "SRIDEVI S",
+        "type": "TH",
+        "id": "smart-contracts-theory-lab-0"
+      },
+      {
+        "slot": "L13+L14",
+        "venue": "PRP353",
+        "faculty": "SRIDEVI S",
+        "type": "LO",
+        "id": "smart-contracts-theory-lab-1"
+      }
+    ],
+    "sources": [
+      "DE/Smart Contracts Theory + Lab/Screenshot 2026-10-28 at 10.10.30\u202fPM.png",
+      "DE/Smart Contracts Theory + Lab/Screenshot 2026-10-28 at 10.10.56\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [
+      "B2"
+    ],
+    "morningSlots": [],
+    "overviewSlot": null
+  },
+  {
+    "id": "speech-and-language-processing-theory-lab",
+    "name": "Speech and Language Processing",
+    "category": "DE",
+    "codes": [
+      "BCSE419L",
+      "BCSE419P"
+    ],
+    "sections": [
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT324",
+        "faculty": "MAHESWARI B",
+        "type": "TH",
+        "id": "speech-and-language-processing-theory-lab-0"
+      },
+      {
+        "slot": "L35+L36",
+        "venue": "SJT419",
+        "faculty": "MAHESWARI B",
+        "type": "LO",
+        "id": "speech-and-language-processing-theory-lab-1"
+      }
+    ],
+    "sources": [
+      "DE/Speech and Language Processing Theory + Lab/Screenshot 2026-10-28 at 10.18.44\u202fPM.png",
+      "DE/Speech and Language Processing Theory + Lab/Screenshot 2026-10-28 at 10.18.47\u202fPM.png"
+    ],
+    "hasLab": true,
+    "eveningSlots": [],
+    "morningSlots": [
+      "G1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "wearable-computing",
+    "name": "Wearable Computing",
+    "category": "DE",
+    "codes": [
+      "BCSE315L"
+    ],
+    "sections": [
+      {
+        "slot": "G1+TG1",
+        "venue": "SJT407",
+        "faculty": "SUKANTA GHOSH",
+        "type": "TH",
+        "id": "wearable-computing-0"
+      }
+    ],
+    "sources": [
+      "DE/Wearable Computing/Screenshot 2026-10-28 at 10.03.28\u202fPM.png"
+    ],
+    "hasLab": false,
+    "eveningSlots": [],
+    "morningSlots": [
+      "G1"
+    ],
+    "overviewSlot": null
+  },
+  {
+    "id": "acc-2",
+    "name": "ACC 2",
+    "category": "DC",
+    "requiredSlot": "E2",
+    "codes": [],
+    "sections": [],
+    "hasLab": false,
+    "sources": [],
+    "overviewSlot": null,
+    "missing": true
+  },
+  {
+    "id": "cloud-computing",
+    "name": "Cloud Computing",
+    "category": "DE",
+    "codes": [],
+    "sections": [],
+    "hasLab": false,
+    "sources": [],
+    "overviewSlot": "B2",
+    "missing": true
+  },
+  {
+    "id": "web-app-security",
+    "name": "Web Application Security",
+    "category": "DE",
+    "codes": [
+      "BCSE320L"
+    ],
+    "sections": [],
+    "hasLab": false,
+    "sources": [],
+    "overviewSlot": "F2",
+    "missing": true
+  },
+  {
+    "id": "french",
+    "name": "French",
+    "category": "FC",
+    "codes": [
+      "BFRE101L"
+    ],
+    "sections": [
+      {
+        "id": "french-0",
+        "slot": "B2",
+        "venue": "PRP223",
+        "faculty": "SHANTANU SHANDILYA",
+        "type": "TH"
+      },
+      {
+        "id": "french-1",
+        "slot": "E2",
+        "venue": "SMV130",
+        "faculty": "MALATHY O",
+        "type": "TH"
+      },
+      {
+        "id": "french-2",
+        "slot": "F1",
+        "venue": "PRP429",
+        "faculty": "SHANTANU SHANDILYA",
+        "type": "TH"
+      },
+      {
+        "id": "french-3",
+        "slot": "E1",
+        "venue": "TT104",
+        "faculty": "COUMARAN G",
+        "type": "TH"
+      },
+      {
+        "id": "french-4",
+        "slot": "F1",
+        "venue": "SMV101",
+        "faculty": "COUMARAN G",
+        "type": "TH"
+      }
+    ],
+    "hasLab": false,
+    "sources": [
+      "FC/French/Screenshot 2026-10-28 at 9.57.07\u202fPM.png"
+    ]
+  },
+  {
+    "id": "german",
+    "name": "German",
+    "category": "FC",
+    "codes": [
+      "BGER101L"
+    ],
+    "sections": [
+      {
+        "id": "german-0",
+        "slot": "F1",
+        "venue": "SJT302",
+        "faculty": "ABHIJIT KR DARBEY",
+        "type": "TH"
+      },
+      {
+        "id": "german-1",
+        "slot": "F1",
+        "venue": "SJT709",
+        "faculty": "AMIT KUMAR SAINI",
+        "type": "TH"
+      },
+      {
+        "id": "german-2",
+        "slot": "G2",
+        "venue": "SJT415",
+        "faculty": "DHANANJAY KUMAR",
+        "type": "TH"
+      },
+      {
+        "id": "german-3",
+        "slot": "A2",
+        "venue": "SJT315",
+        "faculty": "ABHIJIT KR DARBEY",
+        "type": "TH"
+      },
+      {
+        "id": "german-4",
+        "slot": "F1",
+        "venue": "SJT303",
+        "faculty": "DHANANJAY KUMAR",
+        "type": "TH"
+      },
+      {
+        "id": "german-5",
+        "slot": "A2",
+        "venue": "SJT127",
+        "faculty": "ARATI KUMARI",
+        "type": "TH"
+      },
+      {
+        "id": "german-6",
+        "slot": "B2",
+        "venue": "SJT202",
+        "faculty": "ARATI KUMARI",
+        "type": "TH"
+      }
+    ],
+    "hasLab": false,
+    "sources": [
+      "FC/German/Screenshot 2026-10-28 at 9.57.29\u202fPM.png"
+    ]
+  },
+  {
+    "id": "spanish",
+    "name": "Spanish",
+    "category": "FC",
+    "codes": [
+      "BESP101L"
+    ],
+    "sections": [
+      {
+        "id": "spanish-0",
+        "slot": "B1",
+        "venue": "SJT409",
+        "faculty": "SHILPI GUPTA",
+        "type": "TH"
+      },
+      {
+        "id": "spanish-1",
+        "slot": "F2",
+        "venue": "SJT222",
+        "faculty": "NUPUR MANASI",
+        "type": "TH"
+      },
+      {
+        "id": "spanish-2",
+        "slot": "B1",
+        "venue": "SJT201",
+        "faculty": "BAISHALI CHOUDHURI",
+        "type": "TH"
+      },
+      {
+        "id": "spanish-3",
+        "slot": "F1",
+        "venue": "SJT126",
+        "faculty": "NUPUR MANASI",
+        "type": "TH"
+      },
+      {
+        "id": "spanish-4",
+        "slot": "B1",
+        "venue": "SMV123",
+        "faculty": "SABYASACHI MISHRA",
+        "type": "TH"
+      }
+    ],
+    "hasLab": false,
+    "sources": [
+      "FC/Spanish/Screenshot 2026-10-28 at 9.56.23\u202fPM.png"
+    ]
+  }
+]

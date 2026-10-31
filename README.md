@@ -1,6 +1,6 @@
 # FFCS Planner
 
-A simple course and timetable planner. All application code and course data are in `index.html`. Docker serves that file through NGINX; there is no backend, database, or application login.
+A simple course and timetable planner. The self-contained `index.html` contains all runtime code, course data, and faculty reviews. Editable sources are in `src/`. Docker serves that file through NGINX; there is no backend, database, or application login.
 
 ## Run
 
@@ -69,3 +69,20 @@ Docker selects the appropriate image for the machine. No Mac- or Windows-specifi
 You can also open `index.html` directly in a browser without Docker.
 
 Reference: [Docker's build-and-share workflow](https://docs.docker.com/get-started/introduction/index.html) and the [official NGINX image](https://hub.docker.com/_/nginx).
+
+## Faculty reviews
+
+Open the Reviews dropdown in a faculty row to see all source remarks. Lab assessment format is shown first. Imported blacklist labels always block selection, including when another source or a manual greenlist recommends the same person. Existing saved blacklisted choices are removed on load.
+
+Spreadsheet labels are retained verbatim. Review-based fit follows the recorded preferences for predictability, fairness, lab DAs, lenient lab marking, moderate theory marking and moderate class averages. Assessments with unspecified frequency are labelled accordingly. Unknown or conflicting evidence remains visible. There are no numerical scores.
+
+The All saved faculty reviews section can also find teachers without a current allocation. See `FACULTY_REVIEWS.md` for the category list and import details. The canonical review data is `src/reviews.json`. The source PDFs and spreadsheet are not copied into the repository.
+
+After editing any files in `src/`, rebuild the standalone HTML before committing:
+
+```sh
+python3 build.py
+docker compose up -d --build
+```
+
+Python is only needed to rebuild edited sources. Friends can run the committed `index.html` through Docker without Python.

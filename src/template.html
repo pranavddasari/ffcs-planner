@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>FFCS Planner</title><style>/* STYLES */</style></head>
+<body>
+<h1>FFCS Planner</h1>
+<fieldset><legend>Course</legend>
+<div class="selectors">
+<label for="session">Theory session</label><select id="session"><option value="2">Evening theory</option><option value="1">Morning theory</option></select>
+<label for="category">Category</label><select id="category"><option value="">-- Choose --</option><option value="DC">DC - Discipline Core / Compulsory</option><option value="DE">DE - Discipline Elective</option><option value="FC">FC - Foundation Core</option></select>
+<label id="courseLabel" for="courseTrigger" hidden>Course list</label><div id="courseField" class="course-field" hidden><button id="courseTrigger" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="courseOptions">-- Choose -- <span aria-hidden="true">▾</span></button><div id="courseMenu" class="course-menu" hidden><input id="courseSearch" placeholder="Search courses" aria-label="Search courses" autocomplete="off"><div id="courseOptions" role="listbox" aria-labelledby="courseLabel"></div></div></div>
+</div>
+<p id="labRule" class="note"></p>
+<div id="allocation" hidden><h2 id="courseHeading"></h2><p class="note" id="courseNote" hidden></p><div class="table-scroll allocation-scroll"><table id="facultyTable"><thead><tr><th>Slot Detail</th><th>Venue</th><th>Faculty</th><th>Course Type</th><th>Lab Slot</th><th>Lab Venue / Type</th><th>Reviews</th><th>Select</th></tr></thead><tbody id="facultyRows"></tbody></table></div><div class="confirm-row"><p id="message" role="status" aria-live="polite"></p><button id="confirm" type="button">OK</button></div></div>
+</fieldset>
+<p class="note review-notice" id="reviewNotice" role="status" hidden></p>
+<div class="timetable-heading"><h2>Timetable</h2><span><i class="swatch reserved"></i> Compulsory <i class="swatch booked"></i> Selected <i class="swatch empty"></i> Free</span></div>
+<div class="table-scroll"><table id="timetable" aria-label="Weekly timetable"><thead id="timetableHead"></thead><tbody id="timetableBody"></tbody></table></div>
+<p class="note" id="reservedNote"></p>
+<div class="plan-heading"><h2>Selected courses</h2><button id="reset" type="button">Reset choices</button></div>
+<div class="table-scroll"><table id="selectedTable"><thead><tr><th>Course</th><th>Faculty</th><th>Theory</th><th>Lab</th><th></th></tr></thead><tbody id="selectedRows"></tbody></table></div>
+<details><summary>Teacher greenlist / blacklist</summary><p class="note">Explicit blacklists from imported sources always apply, even if a teacher is on your manual greenlist.</p><div class="teacher-lists"><label>Greenlist<textarea id="greenlist" rows="5" placeholder="One teacher per line or separated by commas"></textarea></label><label>Blacklist<textarea id="blacklist" rows="5" placeholder="One teacher per line or separated by commas"></textarea></label></div><button id="saveLists" type="button">Save lists</button><span id="listStatus" role="status"></span></details>
+<details id="reviewLibrary"><summary id="reviewLibrarySummary">All saved faculty reviews</summary><p class="note">Preferences: predictable and fair; lenient lab marking; moderate theory marking and class averages. Lab DAs preferred. Reports of recurring lab tests are shown first. Original source tags are retained.</p><input id="reviewSearch" type="search" placeholder="Search a faculty name" aria-label="Search saved faculty reviews"><div id="reviewSearchResults"></div></details>
+<p class="note" id="saveStatus">Choices are saved in this browser. Share this HTML file; each person has their own plan.</p>
+<script>/* DATA */</script><script>/* REVIEWS_DATA */</script><script>/* LOGIC */</script><script>/* REVIEWS_LOGIC */</script><script>/* APP */</script>
+</body></html>
